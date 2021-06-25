@@ -5,6 +5,7 @@ venv/
 presentations/
 notes/
 notes.txt
+myvenv/
 
 ### OSX ###
 .DS_Store
