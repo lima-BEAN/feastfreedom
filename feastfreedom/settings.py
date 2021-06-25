@@ -83,8 +83,8 @@ DATABASES = {
     }
 }
 # dynamORM
-# db_endpoint='http://dynamodb.us-west-1.amazonaws.com'
-# db_table= 'FeastFreedom'
+DB_TABLE='Customers'
+DB_ENDPOINT='http://dynamodb.us-east-1.amazonaws.com'
 
 
 # Password validation
